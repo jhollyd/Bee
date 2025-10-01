@@ -1,2 +1,2 @@
 # Bee
-cs410 Bee classproj2
+cs410 f25 Bee classproj2
