@@ -1,2 +1,2 @@
 # Bee
-Apple READ.ME cs410 f25 classproj2
+READ.ME cs410 f25 classproj2
